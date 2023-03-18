@@ -1,2 +1,2 @@
 # <h2> this is a h2 header
-! (https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
