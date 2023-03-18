@@ -1,2 +1,2 @@
 # <h2> this is a h2 header
-!gif hello
+! (https://octodex.github.com/images/yaktocat.png)
