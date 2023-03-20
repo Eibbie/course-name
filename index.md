@@ -5,3 +5,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
+https://camo.githubusercontent.com/60bde148d5758c19d648a21e7b3b10b0c1c539f49b091e8b067193019af8986b/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f77656c636f6d65746f6361742e706e67
