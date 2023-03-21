@@ -6,6 +6,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] This item is complete
 - [ ] This item is not complete
   
-  ![image](https://user-images.githubusercontent.com/94544016/226634112-912e4a29-e551-40b6-a681-2020e088086d.png)
-
-https://camo.githubusercontent.com/60bde148d5758c19d648a21e7b3b10b0c1c539f49b091e8b067193019af8986b/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f77656c636f6d65746f6361742e706e67
+  ![Image of celebrating Octacat](https://user-images.githubusercontent.com/94544016/226634112-912e4a29-e551-40b6-a681-2020e088086d.png)
